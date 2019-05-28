@@ -2,7 +2,8 @@
 Programação para Mainframe - Prof. Dr. Celso Gallão EXERCÍCIO PRÁTICO 1
 Em grupos de até 2 alunos, para ser apresentado durante a aula, em laboratório de informática, como parte da avaliação da P1.
 1. Fazer uma cópia do arquivo chamado RSPRG001 e salvá-la como CGPRG001. 
-2. Fazer as seguintes alterações no código-fonte de CGPRG001: linha alteração 
+2. Fazer as seguintes alterações no código-fonte de CGPRG00
+    1: linha alteração 
     3 CGPRG001<br>
     5 26/02/2019<br>
     64 “INICIO DA EXECUCAO” <br>
