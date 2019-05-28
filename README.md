@@ -18,4 +18,4 @@ Em grupos de até 2 alunos, para ser apresentado durante a aula, em laboratório
 3. Compilar CGPRG001. 
 4. Criar um JOB para CGPRG001 a partir de RSJOB001. 
 5. Executar o JOB criado. A execução deverá ser semelhante à figura abaixo:
-(imagem em ativida1.pdf)
+(imagem em atividade1.pdf)
